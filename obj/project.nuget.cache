@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJ3k1GczpUJ86/bvABHwyMJGivwVgjy4NHafMhu3x3BsHKKEIyMp6dwIHef9hPVVC6McqItoNFyay7XGUJLucQ==",
+  "success": true,
+  "projectFilePath": "/Users/ivan/Repos/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivan/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.24/microsoft.netcore.app.host.osx-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
